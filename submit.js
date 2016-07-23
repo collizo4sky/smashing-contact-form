@@ -5,7 +5,6 @@
         $.fn.fallOut = function () {
             var _this = this;
             setTimeout(function () {
-                console.log(this, _this);
                 _this.fadeOut("slow");
             }, 5000);
 
