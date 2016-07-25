@@ -24,7 +24,6 @@
                 data: formData,
                 cache: false,
                 contentType: false,
-                enctype: 'multipart/form-data',
                 processData: false,
                 dataType: 'json',
                 success: function (response) {
