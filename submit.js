@@ -40,7 +40,7 @@
                         }
 
                         $('#cf-loader').hide();
-                        $('#cf-notice').text(error).show().fallOut("slow");
+                        $('#cf-notice').text(error).show().fallOut();
                     }
                 }
             });
