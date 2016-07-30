@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: Smashing Contact Form
-Plugin URI: http://smashingmagazine.com
+Plugin URI: http://sitepoint.com
 Description: Ajax powered contact form for WordPress
 Version: 1.0
 Author: Collins Agbonghama
@@ -10,7 +10,7 @@ Author URI: http://w3guy.com
 */
 
 
-namespace SmashingMagazine;
+namespace SitePoint;
 
 class ContactForm {
 
